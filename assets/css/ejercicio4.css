@@ -1,0 +1,41 @@
+#azul {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+#rojo {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+#verde {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+#amarillo {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+#key {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: 2px solid black;
+}
+
+.center{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-around;
+    align-items: center;
+
+
+
+
+}

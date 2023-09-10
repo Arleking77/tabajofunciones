@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: start;
+  }
+
+
+  
+  .indexs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; 
+   
+  
+  }
+  
+  .indexs button{
+    padding: 5px;
+    
+  }
+
+  #ele1{
+    cursor: pointer;
+    text-align: center;
+    width: 50%;
+    margin: 1rem;
+    font-size: 3rem;
+    font-weight: bold;
+    background-color: green;
+    
+}
